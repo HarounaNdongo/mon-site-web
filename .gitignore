@@ -1,1 +1,3 @@
 test/todo.txt
+test/*
+*.xml
